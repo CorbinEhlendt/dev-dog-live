@@ -2,7 +2,7 @@
 
 🦭Cumbie CIS 376 Web Dev Spring '25 Midterm Dev Exam
 
-author: BARRY and tatum, ahayde, jaxon, corbin, ... allk 
+author: BARRY and Corbin
 
 ### Resources
 
